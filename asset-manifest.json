@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/backroadsReactApp/static/css/main.fa07b7dd.css",
+    "main.css": "/backroadsReactApp/static/css/main.f13caa5b.css",
     "main.js": "/backroadsReactApp/static/js/main.7a4a306d.js",
     "static/media/about.jpeg": "/backroadsReactApp/static/media/about.7e8676e80c8ecf02ba4f.jpeg",
     "static/media/main.jpeg": "/backroadsReactApp/static/media/main.1486d4061cd0252b9a21.jpeg",
@@ -10,11 +10,11 @@
     "static/media/tour-4.jpeg": "/backroadsReactApp/static/media/tour-4.54a5dbc7421eba8708c8.jpeg",
     "static/media/logo.svg": "/backroadsReactApp/static/media/logo.08d970fd0ddb0af90a9c60fb965e56d2.svg",
     "index.html": "/backroadsReactApp/index.html",
-    "main.fa07b7dd.css.map": "/backroadsReactApp/static/css/main.fa07b7dd.css.map",
+    "main.f13caa5b.css.map": "/backroadsReactApp/static/css/main.f13caa5b.css.map",
     "main.7a4a306d.js.map": "/backroadsReactApp/static/js/main.7a4a306d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa07b7dd.css",
+    "static/css/main.f13caa5b.css",
     "static/js/main.7a4a306d.js"
   ]
 }
