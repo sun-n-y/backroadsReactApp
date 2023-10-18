@@ -162,7 +162,7 @@ p {
 /* section */
 .section {
   padding: 5rem 0;
-  scroll-margin-top: 4rem;
+  /* scroll-margin-top: 4rem; */
 }
 
 .section-title {
