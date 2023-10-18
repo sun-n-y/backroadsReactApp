@@ -206,7 +206,7 @@ Hero
 
 .hero-banner {
   text-align: center;
-  color: var(--clr-white);
+  color: black;
   padding: 0 3rem;
 }
 
